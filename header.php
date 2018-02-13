@@ -10,6 +10,8 @@
 
 	<link rel="stylesheet" type="text/css" media="screen, projection" href="<?php bloginfo('stylesheet_url'); ?>" />
 	<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
+	<link rel="shortcut icon" href="<?php bloginfo( 'template_url' ); ?>/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="<?php bloginfo( 'template_url' ); ?>/images/favicon.ico" type="image/x-icon">
 	<link rel="apple-touch-icon" sizes="114x114" href="finura-touch-logo.png" />
 	
 	<?php wp_head(); ?>

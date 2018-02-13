@@ -4,12 +4,8 @@
 <div id="main" class="group">
 
 	<div id="featured" class="group">
-		<div class="paa-text">
-			<?php the_field( 'header_area' ); ?>
-		</div>
-		<div class="paa-image">
-			<img src="<?php print IMAGES; ?>/SME-Awards-Logo.png" />
-		</div>
+		<?php the_field( 'header_area' ); ?>
+		<? get_search_form(); ?>
 	</div>
 	
 	<div class="page-content">
@@ -41,7 +37,7 @@
 			</ul>
 			
 			<div class="container"><h2 class="lines">What sets us apart</h2></div>
-			<p class="intro">Our clients are those of Finura and not the individual adviser. We provide clients with direct access to our specialist advisers and our client support team, so that you can get the information you need, when need it, by the most qualified person.</p>
+			<p class="intro">Our clients are those of Finura and not the individual adviser. We provide clients with direct access to our specialist advisers and our client support team, so that you can get the information you need, when you need it, by the most qualified person.</p>
 			
 			<ul class="apart">
 				<li><a href="/our-financial-services-company/">

@@ -30,12 +30,10 @@
 				<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 				   
 				   <li>
-				   	<?php the_post_thumbnail(); ?>
 				   	<h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+				   	<?php the_date('j F Y', '<h5>', '</h5>'); ?>
 				   	<p><?php the_excerpt(); ?></p>
 				   </li>
-				   
-				   <div style="clear: both;"></div>
 				   
 				<?php endwhile; endif; ?>
 									
@@ -48,7 +46,7 @@
 				</ul>
 				</div>
 			</div>
-			<?php get_sidebar('service'); ?>
+			<?php get_sidebar('newsposts'); ?>
 	  
 		</div>
 	</div>

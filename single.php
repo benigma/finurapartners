@@ -3,7 +3,8 @@
 
 <div id="main" class="group">
 	<div id="featured" class="group">
-		<h2><?php echo get_field('news_article_title') ?></h2>
+		<?php echo get_field('news_article_title') ?>
+		<p><?php the_excerpt(); ?></p>
 		<? get_search_form(); ?>
 	</div>
 	<div class="page-content">
@@ -22,7 +23,7 @@
 					<?php endif; ?>
 				<?php endwhile; ?>
 			</div>
-			<?php get_sidebar('service'); ?>
+			<?php get_sidebar('newsposts'); ?>
 	  
 		</div>
 	</div>

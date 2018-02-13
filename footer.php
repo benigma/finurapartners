@@ -6,28 +6,25 @@
 	
 	<!--Footer Information-->
 	<footer class="group">
+		<h1><a href="<?php bloginfo('url'); ?>/"><img src="<?php print IMAGES; ?>/finura-logo.png" alt="<?php bloginfo('name'); ?>" /></a></h1>
+		<h3>T +44 (0) 20 3102 7730</h3>
 		<!-- 
 <div class="links">
 		</div>
  -->
-		<div id="standards">
-			<h1>Finura Partners nominated for Best Client Engagement 2016</h1>
-			<div class="paa">
-				<a href="http://www.finurapartners.com/news/finura-partners-shortlisted-best-client-engagement-award/"><img src="http://www.finurapartners.com/wp-content/uploads/2016/03/PAA-Finalist.png" /></a>
-			</div>
+		<div class="legal">
+			<p>You are now departing from the regulatory site of Finura Partners. Finura Partners is not responsible for the accuracy of the information contained within the linked site.” These links must also open either as a separate window or by closing your web site. Under no circumstances should a link open within the frames of your site.</p>
 		</div>
-
 		<div class="group">
 			<div id="social">
 				<a href="https://www.linkedin.com/company/finura-partners-llp" target="_blank"><img src="<?php print IMAGES; ?>/linkedin.png" alt="Linkedin"></a>
 				<a href="https://plus.google.com/106290111189604633582/posts" target="_blank"><img src="<?php print IMAGES; ?>/googleplus.png" alt="Google Plus"></a>
 				<a href="https://twitter.com/Finurapartners" target="_blank"><img src="<?php print IMAGES; ?>/twitter.png" alt="Twitter"></a>
-				<a href="https://www.facebook.com/finurapartnersLLP" target="_blank"><img src="<?php print IMAGES; ?>/facebook.png" alt="Facebook"></a>
+				<a href="https://www.facebook.com/finurapartners" target="_blank"><img src="<?php print IMAGES; ?>/facebook.png" alt="Facebook"></a>
 				<a href="mailto:enquiries@finurapartners.com"><img src="<?php print IMAGES; ?>/email.png" alt="Email"></a>
 			</div>
 			
 			<div id="standards">
-				<h1>HELPING MAINTAIN OUR HIGH STANDARDS</h1>
 				<a href="https://www.defaqto.com/" target="_blank"><img src="<?php print IMAGES; ?>/defaqto.png" alt="Defaqto" /></a>
 				<a href="http://www.morningstar.co.uk/" target="_blank"><img src="<?php print IMAGES; ?>/morningstar.png" alt="Morningstar" /></a>
 				<a href="http://allenbridge.com/" target="_blank"><img src="<?php print IMAGES; ?>/Allenbridge.png" alt="Allenbridge" /></a>
@@ -39,8 +36,12 @@
 				FINURA PARTNERS, LEVEL 2, JUXON HOUSE, 100 ST PAUL'S CHURCHYARD, LONDON, EC4M 8BU
 			</div>
 			
-			<p>Finura Partners Limited is an appointed representative of Caerus Financial Limited, Building 120 Windmill Hill Business Park, Swindon SN5 6NX<br /> which is authorised and regulated by the Financial Conduct Authority and is entered on the <a href="http://www.fca.org.uk/register" target="_blank">FCA register</a> under reference 497604.</p>
-<p>Finura Partners Limited: Registered in England. Registered Number 09560937. Registered Address: 30 City Road, London, EC1Y 2AB.</p>
+			<div class="legal">
+			<p>Finura Partners is an Appointed Representative of Evolution Wealth Network Limited who are authorised and regulated by the Financial Conduct Authority. Registered Office: Sussex House, North Street, Horsham, West Sussex, RH12 1RQ. Registered in England Number: 591218<p>
+			<p>Finura Partners Limited. Registered Office: 15 Bowling Green Lane, London, England, EC1R 0BD. Registered in England Number 09560937.</p>
+		<p>Finura Partners is entered on the <a href="https://register.fca.org.uk/" target="_blank">FCA register</a> under reference 616038.</p>
+		<p>The guidance and/or advice contained within this website are subject to the UK regulatory regime, and are therefore targeted at consumers based in the UK. You may also be interested in the <a href="http://www.financial-ombudsman.org.uk/" target="_blank">Financial Ombudsman Service</a>.</p>
+			</div>
 		</div>
 		
 	</footer>
