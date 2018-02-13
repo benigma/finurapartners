@@ -300,7 +300,7 @@ input[type="submit"] {
 	margin-bottom: 16px;
 }
 
-..page-template-page-news-php .post .attachment-post-thumbnail, .page-template-page-news-php .post ul .news li img, .page-template-page-news-php .post ul .news li .attachment-post-thumbnail wp-post-image, ul .news li img {
+.page-template-page-news-php .post .attachment-post-thumbnail, .page-template-page-news-php .post ul .news li img, .page-template-page-news-php .post ul .news li .attachment-post-thumbnail wp-post-image, ul .news li img {
 	width: 25%;
 	height: auto;
 	margin: 0 1em 1em 0;
