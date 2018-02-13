@@ -13,7 +13,7 @@
 		</div>
  -->
 		<div class="legal">
-			<p>You are now departing from the regulatory site of Finura Partners. Finura Partners is not responsible for the accuracy of the information contained within the linked site.” These links must also open either as a separate window or by closing your web site. Under no circumstances should a link open within the frames of your site.</p>
+			<p>You are now departing from the regulatory site of Finura Partners. Finura Partners is not responsible for the accuracy of the information contained within the linked site.</p>
 		</div>
 		<div class="group">
 			<div id="social">
