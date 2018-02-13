@@ -1,0 +1,19 @@
+/***All of the CSS***/
+/*
+Theme Name:	Finura Partners
+Theme URI:	http://finurapartners.com
+Description: Theme for Finura Partners
+Version:	1.0
+Author:		We Launch Ltd
+Author URI:	http://www.welaunch.co.uk
+*/
+
+/* import stylesheets and hide from ie/mac \*/
+@import url("css/reset.css");
+@import url("css/master.css");
+@import url("css/lightbox.css");
+@import url("css/ie.css");
+/* end import/hide */
+
+
+
